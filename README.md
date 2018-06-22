@@ -57,6 +57,7 @@ Signed,
 1.  Ben Wiley [@benwiley4000](https://github.com/benwiley4000)
 1.  Benji Bilheimer [@benjibee](https://github.com/benjibee)
 1.  Bernard Lin [@bernard-lin](https://github.com/bernard-lin)
+1.  Brandon Kelly [@brandonkelly](https://github.com/brandonkelly)
 1.  Brian Yang [@brianyang](https://github.com/brianyang)
 1.  Capi Etheriel [@barraponto](https://github.com/barraponto)
 1.  Carlos Colón [@cppmx](https://github.com/cppmx)
